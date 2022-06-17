@@ -3,8 +3,7 @@
 - 🔭 aplicações para desktop
 - 🌱 estudando Hacking e me aprimorando em C e Python
 - 📫 email para contato: marlisson.limaoliveira18@gmail.com
-- 😄 ele/dele
-.
+
 
 
 
