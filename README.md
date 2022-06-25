@@ -24,6 +24,6 @@
             
             
        
-          https://c.tenor.com/DxeK02KwNbEAAAAd/java-python.gif
+          ![](https://c.tenor.com/DxeK02KwNbEAAAAd/java-python.gif.gif)
 
           
