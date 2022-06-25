@@ -2,7 +2,7 @@
 
 - 🔭 desenvolvendo jogos em Pygame
 - 🌱 estudando Hacking e me aprimorando em C e Python
-- 📫 email para contato: marlisson.limaoliveira18@gmail.com
+
 
 
 
