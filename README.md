@@ -1,6 +1,6 @@
 ### Olá,Mundo! 🚀
 
-- 🔭 desenvolvendo jogos em Pygame
+- 🕹️ desenvolvendo jogos em Pygame
 - 🌱 estudando Hacking e me aprimorando em C e Python
 
 
