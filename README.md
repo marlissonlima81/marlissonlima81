@@ -1,9 +1,9 @@
 ### Olá,Mundo! 🚀
 
 - 🕹️ <div style=" float: right; padding: 20px 0 20px 35px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
-    <div class="Upload">Desenvolvendo jogos em Pygame</div></div>
+    <div class="Upload">Aprendendo desenvolvimento web</div></div>
 - 🌱 <div style=" float: right; padding: 20px 0 20px 35px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
-    <div class="Upload">estudando Hacking e me aprimorando em C e Python</div></div>
+    <div class="Upload">estudando Hacking</div></div>
 
 
 
